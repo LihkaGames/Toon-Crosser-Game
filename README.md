@@ -44,7 +44,7 @@
 
 ## 🎮 About
 
-**Toon Crosser** is an action-packed arcade game for Android that challenges your reflexes. Navigate through busy roads, collect coins, and unlock a cast of unique characters, each with their own game-changing abilities. 
+**Toon Crosser** is an action-packed arcade game for Android that challenges your reflexes. Navigate through busy roads, collect coins, and unlock a variety of unique characters, each equipped with game-changing abilities to help you survive longer.
 
 🚀 Official release by **Lihka Games**!
 
@@ -55,8 +55,8 @@
 | Feature | Description |
 |---------|-------------|
 | 🕹️ **Multiple Modes** | Play Classic, Time Attack, Zen, Survival, or Challenge mode |
-| 🦊 **16+ Characters** | Unlock unique toons like the Ninja, Robot, and Alien |
-| ⚡ **Special Abilities** | Powers like "Ice Shield," "Shadow Step," and "Mind Control" |
+| 🦊 **Unlockable Toons** | Collect characters like the Ninja, Robot, Alien, and more |
+| ⚡ **Special Abilities** | Use powers like "Ice Shield," "Shadow Step," and "Mind Control" |
 | 🎡 **Spin Wheel** | Win daily coin rewards to unlock new content faster |
 | 🎁 **Daily Gifts** | Consistent rewards for active players |
 | 🏆 **Achievement System** | Track your progress and master every game mode |
@@ -67,10 +67,10 @@
 
 | Feature | Detail |
 |---------|--------|
-| 🌌 **Deep Space Theme** | Aesthetic dark background with glowing UI elements |
-| 🟢 **Vibrant Colors** | High-visibility characters and obstacles |
-| ⚡ **Smooth Gameplay** | Optimized for low-latency movement and instant response |
-| 📱 **Zero Friction** | No registration or sign-up required—just download and play |
+| 🌌 **Space Aesthetic** | Sleek dark background with vibrant, glowing UI elements |
+| 🟢 **High Contrast** | Clear visibility for characters and obstacles on all lanes |
+| ⚡ **Smooth Gameplay** | Optimized for precise movement and instant response |
+| 📱 **Direct Access** | No registration or sign-up required—just download and play |
 
 ---
 
